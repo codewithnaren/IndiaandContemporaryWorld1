@@ -1,4 +1,4 @@
-const url = 'https://codewithnaren.github.io/IndiaandContemporaryWorld1/IndiaandContemporaryWorld1';
+const url = 'https://codewithnaren.github.io/IndiaandContemporaryWorld1/IndiaandContemporaryWorld1.pdf';
 
 
 let pdfDoc = null,
